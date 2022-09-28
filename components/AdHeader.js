@@ -25,7 +25,7 @@ export function AdHeader(props) {
                 </Box>
 
                 <Box>
-                    <Stack gap={1} direction='row'>
+                    <Stack gap={1} direction='row' alignItems='center'>
                         <Typography variant='subtitle1' sx={{           
                             color: '#a3a3a3',
                             flexShrink: 1
